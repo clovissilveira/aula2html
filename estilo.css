@@ -1,0 +1,67 @@
+
+body {
+    background-color: slategrey;
+}
+
+h1 {
+    background-color: coral
+}
+
+
+h2 {
+    font-family: cursive;
+    color: red;
+}
+
+
+
+p {
+    font-family: initial;
+    size: 90px;
+    color: rgb(165, 18, 67)
+}
+
+h4 {
+   font-family: monospace;
+   size: 15px;
+   color: chartreuse 
+}
+
+#t2formato {
+    color: teal;
+    background-color: wheat;
+}
+
+.fundo {
+    background-color: violet;
+}
+
+
+#caixa {
+    background-color: royalblue;
+    border: red solid;
+    padding: 15px ;
+    padding-top: 25px;
+    padding-left: 25px;
+    margin: 50px;
+}
+
+#caixa2 {
+    background-color: seagreen;
+    border: yellow solid;
+    border-radius: 50px ;
+    padding: 20px ;
+    padding-top: 35px;
+    padding-left: 45px;
+    margin: 30px;
+}
+
+
+#fontecursohtml {
+    background-color: darkgoldenrod;
+    border: darkmagenta solid;
+    padding: 35px;
+    padding-top: 45px ;
+    padding-left: 42px;
+    margin: 50px
+}
